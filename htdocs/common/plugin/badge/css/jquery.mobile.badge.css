@@ -1,0 +1,21 @@
+/* badge */
+.ui-badge-only .ui-icon {
+  display: none; }
+
+.ui-badge-fav {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  width: 24px;
+  height: 24px;
+  background-image: url(./images/badge_fav.png); }
+
+.ui-badge-like {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  width: 24px;
+  height: 24px;
+  background-image: url(./images/badge_like.png); }
